@@ -22,4 +22,4 @@ jobs:
           git push origin --tags
       - uses: JS-DevTools/npm-publish@v1
         with:
-          token: ${{secrets.GITHUB_TOKEN}}
+          token: ${{secrets.NPM_TOKEN}}
