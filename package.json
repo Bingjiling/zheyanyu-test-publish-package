@@ -1,6 +1,6 @@
 {
   "name": "@zheyanyu/zheyanyu-test-publish-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "repo for testing npm publish workflow",
   "main": "index.js",
   "scripts": {
